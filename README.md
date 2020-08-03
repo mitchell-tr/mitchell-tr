@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## My current weather
-<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/nelson-11216"><img src="https://w.bookcdn.com/weather/picture/32_11216_1_1_34495e_250_2c3e50_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=w209&anc_id=60854"  alt="booked.net"/></a><!-- weather widget end -->
+<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/nelson-11216"><img src="https://w.bookcdn.com/weather/picture/3_11216_1_1_3d3d3d_430_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=124&domid=w209&anc_id=26749"  alt="booked.net"/></a><!-- weather widget end -->
 <!--
 **mitchell-tr/mitchell-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
